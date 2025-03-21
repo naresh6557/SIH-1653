@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:21/03/2025
+## Register Number:212224040213
+## Name:Naresh kumar R
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -11,16 +11,33 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
+Design a Techno-Managerial Interview Simulation System (TMIS):
+
+1.Mimics a real-life Board Room interview setup.
+2.Automatically generates relevant interview questions based on candidate profiles.
+3.Evaluates both interviewer and candidate performance using AI/NLP techniques.
+4.Provides objective and quantifiable scoring for relevance and quality of both questions and responses.
 
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/715f630c-820a-4ccb-a0fb-f06c1921356b)
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/5833be0b-e8a5-4116-9354-4be0a68db17f)
+
 
 
 ## Technology Stack
-
+ReactJS	Dynamic
+HTML5, CSS3, TailwindCSS	
+WebRTC / Jitsi / Zoom SDK 
+Chart.js / Recharts / D3.js
 
 ## Dependencies
+Python – Core backend development & AI/ML integration
+Node.js + npm/yarn – For frontend tooling & package management
+ReactJS – UI development
+Docker – Containerization
+Kubernetes – Orchestration and scalability
 
